@@ -1,0 +1,4 @@
+Lecture - 11 Autofac done.
+Lecture - 12 (15 - 33) Serilog Configuration.
+Lecturer - 18 (1:38:00) {Infrastructure Class Library Project Add} continue Done
+Lecturer - 19 (0:20:00)
